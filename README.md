@@ -24,3 +24,8 @@ Twelve pipelines were created by combining:
 
 ## 📝 Report
 - All findings and visualizations are summarized in report_and_results/Project_Report.pdf
+
+Note: This repository is not designed for direct re-execution.
+Some file paths in scripts are project-specific, and large input files (e.g., reference genomes, FASTQ files) are excluded due to size constraints.  
+The purpose of this repository is to document the workflow, code structure, and analysis results of the project.
+
