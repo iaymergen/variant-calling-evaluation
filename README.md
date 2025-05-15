@@ -22,5 +22,5 @@ Twelve pipelines were created by combining:
 - VCF-level comparison of precision, recall, F1-score  
 - Visualizations: PCA, heatmaps, Venn diagrams, runtime comparisons
 
-📝 Report
+## 📝 Report
 - All findings and visualizations are summarized in report_and_results/Project_Report.pdf
