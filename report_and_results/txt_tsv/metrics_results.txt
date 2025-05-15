@@ -1,0 +1,15 @@
+File,SNP_TP,SNP_FP,SNP_FN,SNP_Precision,SNP_Recall,SNP_F1,SNP_Variant_Count
+final_bwa_strelka_with_Base_onlyPass.vcf.gz,936,1875,225,.33297758,.80620155,.47129908,2811
+final_bwa_strelka_no_Base_onlyPass.vcf.gz,943,2228,218,.29738252,.81223083,.43536471,3171
+final_bwa_somaticsniper_withBase.vcf.gz,854,7435,307,.10302810,.73557278,.18074072,8289
+final_bwa_somaticsniper_no_Base.vcf.gz,870,8527,291,.09258273,.74935400,.16480391,9397
+final_bwa_mutect_withBase_onlyPass.vcf.gz,710,282,451,.71572580,.61154177,.65954481,992
+final_bwa_mutect_noBase_onlyPass.vcf.gz,699,363,462,.65819209,.60206718,.62887988,1062
+final_bowtie_strelka_with_Base_onlyPass.vcf.gz,826,723,335,.53324725,.71145564,.60959408,1549
+final_bowtie_strelka_no_Base_onlyPass.vcf.gz,831,955,330,.46528555,.71576227,.56396334,1786
+final_bowtie_somaticsniper_with_Base.vcf.gz,781,4740,380,.14145988,.67269595,.23376233,5521
+final_bowtie_somaticsniper_no_Base.vcf.gz,804,6054,357,.11723534,.69250645,.20052373,6858
+final_bowtie_mutect_withBase_onlyPass.vcf.gz,876,314,285,.73613445,.75452196,.74521479,1190
+final_bowtie_mutect_no_Base_onlyPass.vcf.gz,801,258,360,.75637393,.68992248,.72162161,1059
+final_galaxy_bowtie_strelka_onlyPass.vcf.gz,832,415,329,.66720128,.71662360,.69102989,1247
+final_galaxy_bwa_strelka_onlyPass.vcf.gz,926,1109,235,.45503685,.79758828,.57947433,2035
